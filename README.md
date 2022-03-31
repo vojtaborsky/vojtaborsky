@@ -1,1 +1,1 @@
-:mailbox: contact: vojtaborsky@gmail.com
+contact: vojtaborsky@gmail.com
