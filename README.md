@@ -12,6 +12,7 @@ so feel free to contact me anytime!
 - Linux & Bash
 - Vim & Tmux
 ### Contact
+- linkedin:&nbsp;&nbsp;                          <a href="https://www.linkedin.com/in/vojtech-taborsky/" target="_blank">Vojtech Taborsky</a>
 - email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    vojtaborsky@gmail.com
 - fiverr:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="https://www.fiverr.com/vojtaborsky" target="_blank">vojtaborsky</a>
 - discord:&nbsp;&nbsp;                          <a href="https://discord.com/users/763717061960269844" target="_blank">vojtaborsky#2457</a>
